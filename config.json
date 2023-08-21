@@ -1,0 +1,20 @@
+{
+	"RPC_URL": "http://127.0.0.1:8501",
+	"LOOP_TIME": 3,
+	"GAS_PRICE": "100",
+	"admin1": {
+		"address": "",
+		"private_key": ""
+
+	},
+	"admin2": {
+		"address": "",
+		"private_key": ""
+	},
+	"random_contract_address": "",
+	"calendar_contract_address": "",
+	"tge_contract_address": "",
+	"staking_contract_address": "",
+	"acn": "",
+	"oak": ""
+}
