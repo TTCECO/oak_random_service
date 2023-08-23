@@ -19,25 +19,28 @@ Ensure Python3 and pip3 are installed:
 ```bash
 sudo apt-get update
 sudo apt install python3-pip
-
+```
 
 Install the required Python packages:
 
-​```bash
+```bash
 pip3 install web3
-
+```
 
 In case of any issues installing web3:
 
-​```bash
+```bash
 python -m pip install --user cython
 python -m pip install --user cytoolz
 python -m pip install --user eth-brownie
+```
 
 ### Execution:
 
 Run the script:
 
-​```bash
+```bash
 python3 oak_random_checking.py
 ```
+
+
